@@ -4,7 +4,7 @@ const path = require('path');
 const usersRouter = require('./routes/users.router');
 const postsRouter = require('./routes/posts.router');
 const app = express();
-git 
+ 
 const PORT = `3000`;
 const HOST = 'localhost';
 app.set('view engine', 'hbs');
